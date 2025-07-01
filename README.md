@@ -1,1 +1,1 @@
-# STORY-GUARD
+# secure-story-publishing-and-copyright-hub
